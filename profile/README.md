@@ -1,9 +1,7 @@
 # PRISM-AI-Lab
 
-**Peking University & Tsinghua University**  
+**Xi'an Jiaotong University & Peking University & Tsinghua University**  
 Visual Information Processing and Brain-Inspired Intelligence
-
-[Yiding Sun](https://scholar.google.com/citations?user=V1M-qA0AAAAJ&hl=en) · [Dongxu Zhang](https://scholar.google.com/citations?user=RY-90HIAAAAJ&hl=en)
 
 ## About
 
